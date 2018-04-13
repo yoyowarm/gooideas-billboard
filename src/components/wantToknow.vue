@@ -29,15 +29,7 @@
               }
             
           },
-          transforClass(){
-             if (value.includes('soon')){
-                  return 'cc'
-              }else if (value.includes('showing')){
-                  return 'aa'
-              }else if (value.includes('finished')){
-                  return true
-              }
-          }
+          
       }
       
     
